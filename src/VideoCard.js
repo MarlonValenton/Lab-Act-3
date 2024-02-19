@@ -9,7 +9,7 @@ return (
         <div className="content">
             <img src="img/profile-pic.png" className="channel-icon" alt=""/>
             <div className="info">
-                <h4 className="title">Video 111231141</h4>
+                <h4 className="title">Channel Intro</h4>
                 <p className="channel-name">modern web</p>
             </div>
         </div>
